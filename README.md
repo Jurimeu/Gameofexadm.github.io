@@ -1,1 +1,1 @@
-# Gameofexadm.github.io
+Jogo feito por ex tecnico em ADM
