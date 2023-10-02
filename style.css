@@ -1,1 +1,25 @@
+body{
 
+overflow-x: hidden;
+overflow-y: hidden;
+background-image: url("fundo.gif");
+
+}
+.naveJog{
+
+width: 80px;
+height: 80px;
+position: absolute;
+overflow: hidden;
+}
+
+.telaMsg{
+position: absolute;
+margin-left: -25%;
+top: 50px;
+left: 50px;
+width: 720px;
+height: 621px;
+display: none;
+
+}
