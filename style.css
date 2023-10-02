@@ -2,7 +2,7 @@ body{
 
 overflow-x: hidden;
 overflow-y: hidden;
-background-image: url("imagens/fundo.gif");
+background-image: url('caminho-para-seu-gif.gif');
 
 }
 .naveJog{
