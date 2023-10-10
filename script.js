@@ -70,7 +70,7 @@ function inicia() {
     dirxJ = diryJ = 0;
     posX = tamTelaW/2;
     posY = tamTelaH/2;
-    velJ = 5;
+    velJ = 25;
     jog = document.getElementById("naveJog");
     //retorna a posição de um elemento especificado.
     jog.style.top = posY + "px";
